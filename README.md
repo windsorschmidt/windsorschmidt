@@ -1,1 +1,1 @@
-[π](https://github.com/windsorschmidt/windsorschmidt)
+[π](https://github.com/windsorschmidt)
