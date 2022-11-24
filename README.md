@@ -1,1 +1,1 @@
-$\textcolor{#ff6655}{\rule{300px}{4px}}\textcolor{#00cc00}{\rule{300px}{4px}}\textcolor{#3366ff}{\rule{300px}{4px}}$
+$\textcolor{#f65}{\rule{280px}{2px}}\textcolor{#0c0}{\rule{280px}{2px}}\textcolor{#36f}{\rule{280px}{2px}}$
