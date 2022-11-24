@@ -1,5 +1,3 @@
-[π](https://github.com/windsorschmidt)
-
 ```stl
 solid Mesh
   facet normal -0.995055 0.000000 0.099320
